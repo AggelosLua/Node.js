@@ -28,4 +28,4 @@ require('http').createServer((req, res) => res.end('Hello!')).listen(80);
 // *	(Multiply two numeric values)
 // ==	(Compare equality of two values with ignoring type)
 // ===	(Compares equality of two values with type)
-// 	! (NOT operator)
+// ! (NOT operator)
